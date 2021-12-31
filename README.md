@@ -2,6 +2,7 @@
 
 This project was made by loosely following a tutorial to help me learn about Web Dev  
 Made with HTML, CSS, and plain JavaScript  
+Published at: https://noumanamalik.github.io/Markdown-Stickies/
 
 ### Features
 - Allows the user to create as many sticky notes as they want
